@@ -1,0 +1,534 @@
+﻿
+        <html xmlns:o='urn:schemas-microsoft-com:office:office'
+              xmlns:w='urn:schemas-microsoft-com:office:word'
+              xmlns='http://www.w3.org/TR/REC-html40'>
+        <head>
+          <meta charset='utf-8'>
+          <title>Modul Ajar Bahasa Inggris Kelas X - Great Athletes</title>
+          <style>
+            @page Section1 {
+              size: 21.0cm 29.7cm;
+              margin: 1.5cm 1.5cm 1.5cm 1.5cm;
+            }
+            div.Section1 { page: Section1; }
+            body {
+              font-family: 'Times New Roman', Times, serif;
+              font-size: 11pt;
+              line-height: 1.45;
+              color: #000000;
+            }
+            table.doc-table {
+              width: 100%;
+              border-collapse: collapse;
+              margin-bottom: 12pt;
+            }
+            table.doc-table td, table.doc-table th {
+              border: 1px solid #000000;
+              padding: 5pt 7pt;
+              vertical-align: top;
+            }
+            tr.doc-header-row td {
+              background-color: #F3F4F6;
+              font-weight: bold;
+            }
+            tr.sub-header-row td {
+              background-color: #F9FAFB;
+              font-weight: bold;
+            }
+            .text-model-box {
+              background-color: #F8FAFC;
+              border-left: 3pt solid #1E40AF;
+              padding: 8pt;
+              margin: 6pt 0;
+            }
+            .badge-deep {
+              font-weight: bold;
+              font-size: 9pt;
+              color: #1E3A8A;
+            }
+          </style>
+        </head>
+        <body>
+          <div class="Section1">
+
+      <!-- JUDUL MODUL -->
+      <div style="text-align: center; border-bottom: 2px solid #000000; padding-bottom: 10px; margin-bottom: 16px;">
+        <div style="font-size: 14pt; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px;">
+          MODUL AJAR BAHASA INGGRIS (FASE E)
+        </div>
+        <div style="font-size: 11.5pt; font-weight: bold; margin-top: 2px;">
+          MATERI POKOK: GREAT ATHLETES (DESCRIPTIVE TEXT)
+        </div>
+        <div style="font-size: 10pt; font-style: italic; margin-top: 2px;">
+          Pendekatan Pembelajaran Mendalam (Deep Learning: Mindful, Meaningful, &amp; Joyful Learning)
+        </div>
+      </div>
+
+      <!-- TABEL 1: INFORMASI UMUM -->
+      <table class="doc-table">
+        <tbody><tr class="doc-header-row">
+          <td colspan="4">I. INFORMASI UMUM</td>
+        </tr>
+        <tr>
+          <td style="width: 24%; font-weight: bold;">Nama Penyusun</td>
+          <td style="width: 28%;">Satria Andriani, S.Pd.</td>
+          <td style="width: 22%; font-weight: bold;">Tahun Pelajaran</td>
+          <td style="width: 26%;">2025 / 2026</td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold;">Satuan Pendidikan</td>
+          <td>SMAN 3 Jeneponto</td>
+          <td style="font-weight: bold;">Jenjang / Kelas / Fase</td>
+          <td>SMA / Kelas X / Fase E</td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold;">Mata Pelajaran</td>
+          <td>Bahasa Inggris</td>
+          <td style="font-weight: bold;">Alokasi Waktu</td>
+          <td>3 x 45 Menit (1 Pertemuan)</td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold;">Topik / Jenis Teks</td>
+          <td colspan="3"><strong>Great Athletes</strong> — <em>Descriptive Text</em> (Mendeskripsikan Sosok, Ciri Fisik, Kepribadian, dan Nilai Inspiratif Atlet)</td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold;">Elemen CP Dituju</td>
+          <td colspan="3">Menyimak - Berbicara (<em>Listening - Speaking</em>), Membaca - Memirsa (<em>Reading - Viewing</em>), dan Menulis - Mempresentasikan (<em>Writing - Presenting</em>)</td>
+        </tr>
+      </tbody></table>
+
+      <!-- TABEL 2: IDENTIFIKASI -->
+      <table class="doc-table">
+        <tbody><tr class="doc-header-row">
+          <td colspan="2">II. IDENTIFIKASI PEMBELAJARAN</td>
+        </tr>
+        <tr>
+          <td style="width: 26%; font-weight: bold;">1. Kesiapan Murid</td>
+          <td>
+            Pemetaan awal dilakukan melalui kuis diagnostik singkat di awal kelas untuk mengakomodasi keragaman kemampuan bahasa Inggris:
+            <ul class="doc-list">
+              <li><strong>Kelompok Pemula (Developing):</strong> Memahami kosakata dasar cabang olahraga, membutuhkan perancah (<em>scaffolding</em>) berupa <em>Word Bank</em> (bank kosakata sifat) dan <em>sentence starters</em>.</li>
+              <li><strong>Kelompok Menengah (Proficient):</strong> Mampu menangkap informasi tersurat dari teks profil atlet dan menyusun kalimat sederhana dengan <em>Simple Present Tense</em>.</li>
+              <li><strong>Kelompok Mahir (Advanced):</strong> Mampu menganalisis nilai keteladanan tersirat dan menulis deskripsi atlet secara komprehensif dengan variasi kosakata kaya.</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold;">2. Karakteristik Materi Pelajaran</td>
+          <td>
+            <ul class="doc-list">
+              <li><strong>Fungsi Sosial:</strong> Mendeskripsikan penampilan fisik, kepribadian, perjalanan karier, serta prestasi membanggakan seorang atlet untuk menginspirasi pembaca/pendengar.</li>
+              <li><strong>Struktur Teks:</strong> <em>Identification</em> (pengenalan nama, asal daerah/negara, dan cabang olahraga atlet) dan <em>Description</em> (penjabaran ciri fisik, kepribadian, rutinitas latihan, dan prestasi).</li>
+              <li><strong>Unsur Kebahasaan:</strong> <em>Simple Present Tense</em>, <em>Linking Verbs</em> (<em>is, has, looks, seems</em>), dan <em>Adjectives of Appearance &amp; Personality</em> (<em>athletic, agile, humble, resilient, disciplined</em>).</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold;">3. Dimensi Profil Lulusan</td>
+          <td>
+            <ul class="doc-list">
+              <li><strong>Kesehatan &amp; Akhlak Pribadi:</strong> Meneladani sportivitas, kedisiplinan, kerendahan hati, serta pola hidup sehat para atlet berprestasi.</li>
+              <li><strong>Penalaran Kritis:</strong> Menggali informasi rinci dan menyimpulkan nilai-nilai perjuangan di balik keberhasilan seorang atlet dari teks bacaan.</li>
+              <li><strong>Kolaborasi &amp; Kreativitas:</strong> Bekerja sama menyusun kartu profil atlet inspiratif (<em>Athlete Spotlight Card</em>) secara visual dan komunikatif.</li>
+            </ul>
+          </td>
+        </tr>
+      </tbody></table>
+
+      <!-- TABEL 3: DESAIN PEMBELAJARAN -->
+      <table class="doc-table">
+        <tbody><tr class="doc-header-row">
+          <td colspan="2">III. DESAIN PEMBELAJARAN</td>
+        </tr>
+        <tr>
+          <td style="width: 26%; font-weight: bold;">1. Tujuan Pembelajaran (TP)</td>
+          <td>
+            Melalui eksplorasi profil atlet inspiratif dan diskusi kolaboratif, peserta didik mampu:
+            <ol class="doc-list">
+              <li><strong>Menganalisis (C4 — Membaca-Memirsa):</strong> Mengidentifikasi fungsi sosial, struktur teks (<em>Identification &amp; Description</em>), dan unsur kebahasaan (<em>Simple Present Tense</em> serta <em>adjectives</em>) dari teks deskriptif tentang atlet berprestasi dengan tepat.</li>
+              <li><strong>Mencipta &amp; Menyajikan (C6 — Menulis-Mempresentasikan):</strong> Menyusun teks deskriptif singkat (100–130 kata) mengenai seorang atlet idola atau atlet lokal yang menginspirasi, serta mempresentasikannya dengan pelafalan dan percaya diri yang baik.</li>
+            </ol>
+          </td>
+        </tr>
+        <tr class="sub-header-row">
+          <td colspan="2">2. Kerangka Pembelajaran</td>
+        </tr>
+        <tr>
+          <td style="padding-left: 16px; font-weight: bold;">a. Praktik Pedagogis</td>
+          <td><em>Genre-Based Approach (GBA)</em> yang dipadukan dengan <em>Guided Discovery</em> dan <em>Gallery Walk</em> untuk memandu siswa dari pembedahan model teks hingga produksi karya mandiri.</td>
+        </tr>
+        <tr>
+          <td style="padding-left: 16px; font-weight: bold;">b. Kemitraan Pembelajaran</td>
+          <td>Kolaborasi tutor sebaya (<em>peer-tutoring</em>) dalam kelompok heterogen serta integrasi lintas mata pelajaran dengan <strong>PJOK</strong> (cabang olahraga, kebugaran fisik, dan nilai sportivitas).</td>
+        </tr>
+        <tr>
+          <td style="padding-left: 16px; font-weight: bold;">c. Lingkungan Pembelajaran</td>
+          <td>Pengaturan ruang kelas berkelompok (4 siswa) dengan dinding pajang (<em>Athlete Wall of Fame</em>) serta iklim psikologis positif yang mendorong siswa berani berbahasa Inggris tanpa takut salah.</td>
+        </tr>
+        <tr>
+          <td style="padding-left: 16px; font-weight: bold;">d. Pemanfaatan Digital</td>
+          <td>Pemanfaatan gawai siswa (<em>BYOD</em>) untuk memindai QR Code bacaan model, papan kolaborasi digital (Padlet/Mentimeter), serta aplikasi desain (Canva) atau kertas gambar A4 untuk produk akhir.</td>
+        </tr>
+      </tbody></table>
+
+      <!-- TABEL 4: PENGALAMAN BELAJAR -->
+      <table class="doc-table">
+        <tbody><tr class="doc-header-row">
+          <td colspan="2">IV. PENGALAMAN BELAJAR (ALOKASI: 3 x 45 MENIT)</td>
+        </tr>
+        <tr>
+          <td style="width: 26%; font-weight: bold;">
+            A. Pendahuluan<br>
+            <span style="font-weight: normal; font-size: 10pt;">(15 Menit)</span>
+          </td>
+          <td>
+            <ol class="doc-list">
+              <li>
+                <span class="badge-deep badge-mindful">Mindful</span> <strong>Koneksi Kesadaran:</strong> Guru mengajak siswa duduk tegak, menyadari postur tubuh, dan menarik napas perlahan layaknya seorang atlet sebelum bertanding.<br>
+                <span class="classroom-lang">"Good morning, champions! Before we start, let’s sit up straight like an athlete preparing for a big match. Take a deep breath in... hold it... and breathe out slowly. Feel your focus right here."</span>
+              </li>
+              <li>
+                <span class="badge-deep badge-joyful">Joyful</span> <strong>Permainan Pemantik (<em>Guess the Great Athlete!</em>):</strong> Guru memberikan 3 petunjuk berjenjang tentang atlet Indonesia (misal: Veddriq Leonardo atau Megawati Hangestri).<br>
+                <span class="classroom-lang">"Listen carefully: I am an Indonesian athlete from West Kalimantan. I am agile and fast. I won Indonesia’s first Olympic gold medal in speed climbing in Paris 2024. Who am I?"</span>
+              </li>
+              <li>
+                <span class="badge-deep badge-meaningful">Meaningful</span> <strong>Penyampaian Tujuan:</strong> Guru menghubungkan permainan dengan tujuan pembelajaran hari ini dan pentingnya meneladani kerja keras para atlet.
+              </li>
+            </ol>
+          </td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold;">
+            B. Kegiatan Inti<br>
+            <span style="font-weight: normal; font-size: 10pt;">Tahap 1: Memahami<br>(35 Menit)</span>
+          </td>
+          <td>
+            <ol class="doc-list">
+              <li>
+                <span class="badge-deep badge-mindful">Mindful</span> <span class="badge-deep badge-meaningful">Meaningful</span> <strong>Membaca Mendalam &amp; Pembedahan Teks Model:</strong> Siswa membaca teks profil atlet berikut secara saksama:
+                <div class="text-model-box">
+                  <strong>Veddriq Leonardo: The Pride of Indonesian Speed Climbing</strong><br><br>
+                  Veddriq Leonardo is one of Indonesia’s greatest athletes in sport climbing. Born in Pontianak, West Kalimantan, he gained international recognition after winning a historic gold medal at the 2024 Paris Olympics. <em><strong>(Identification)</strong></em><br><br>
+                  Veddriq has an athletic, lean, and muscular build, which helps him move swiftly up the climbing wall. Beyond his physical strength, he is known as a humble, disciplined, and calm person. Even under immense pressure during final matches, he stays focused and never gives up easily. Every day, he trains rigorously to improve his speed and agility. His dedication and sportsmanship truly inspire young Indonesians to dream big and work hard. <em><strong>(Description)</strong></em>
+                </div>
+              </li>
+              <li>
+                <strong>Analisis Terbimbing:</strong> Dalam kelompok kecil, siswa mengidentifikasi bagian <em>Identification</em> vs <em>Description</em>, menemukan kata sifat fisik (<em>athletic, lean, muscular</em>) dan kepribadian (<em>humble, disciplined, calm</em>), serta mengamati penggunaan <em>Simple Present Tense</em> (<em>has, moves, stays, trains</em>).
+              </li>
+            </ol>
+          </td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold;">
+            B. Kegiatan Inti<br>
+            <span style="font-weight: normal; font-size: 10pt;">Tahap 2: Mengaplikasi<br>(40 Menit)</span>
+          </td>
+          <td>
+            <ol class="doc-list">
+              <li>
+                <span class="badge-deep badge-meaningful">Meaningful</span> <strong>Proyek Mini (<em>"Athlete Spotlight Card"</em>):</strong> Secara berpasangan/kelompok kecil, siswa memilih satu atlet nasional, internasional, atau siswa berprestasi olahraga di sekolah, lalu menulis teks deskriptif singkat (100–130 kata) yang memuat <em>Identification</em> dan <em>Description</em>.<br>
+                <span class="classroom-lang">"Choose an athlete you admire. Describe not only what they look like, but also the personality traits and values that make them great!"</span>
+              </li>
+              <li>
+                <span class="badge-deep badge-joyful">Joyful</span> <strong>Sesi <em>"Wall of Fame" Gallery Walk</em>:</strong> Karya dipajang di dinding kelas (atau Padlet). Satu anggota bertindak sebagai <em>Presenter</em> menjelaskan profil atletnya selama 1 menit, sementara anggota lain berkeliling mengunjungi stan kelompok lain dan menempelkan <em>sticky notes</em> apresiasi.
+              </li>
+            </ol>
+          </td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold;">
+            B. Kegiatan Inti<br>
+            <span style="font-weight: normal; font-size: 10pt;">Tahap 3: Merefleksi<br>(20 Menit)</span>
+          </td>
+          <td>
+            <span class="badge-deep badge-mindful">Mindful</span> <strong>Refleksi Metakognitif &amp; Pemaknaan Karakter:</strong> Siswa menulis jurnal refleksi singkat berdasarkan tiga pertanyaan pemandu:
+            <ul class="doc-list">
+              <li><em>"Which new English adjectives did you learn today to describe an athlete’s character?"</em></li>
+              <li><em>"What was the hardest part when writing in English, and how did you overcome it?"</em></li>
+              <li><em>"Think about one trait of your chosen athlete (e.g., disciplined, resilient). How can you apply that trait to your own studies?"</em></li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold;">
+            C. Penutup<br>
+            <span style="font-weight: normal; font-size: 10pt;">(15 Menit)</span>
+          </td>
+          <td>
+            <ol class="doc-list">
+              <li>
+                <span class="badge-deep badge-joyful">Joyful</span> <strong>Apresiasi &amp; Umpan Balik Kebahasaan:</strong> Guru mengapresiasi hasil karya siswa dan meluruskan kesalahan umum <em>Simple Present Tense</em> secara lembut (misal: penggunaan akhiran <em>-s/-es</em> pada kata kerja untuk subjek tunggal <em>he/she</em> seperti <em>"he trains"</em>).
+              </li>
+              <li>
+                <span class="badge-deep badge-mindful">Mindful</span> <strong>Tindak Lanjut &amp; Salam Penutup:</strong> Guru menyampaikan agenda pertemuan berikutnya dan menutup pelajaran dengan energi positif.
+              </li>
+            </ol>
+          </td>
+        </tr>
+      </tbody></table>
+
+      <!-- TABEL 5: ASESMEN PEMBELAJARAN -->
+      <table class="doc-table">
+        <tbody><tr class="doc-header-row">
+          <td colspan="2">V. ASESMEN PEMBELAJARAN</td>
+        </tr>
+        <tr>
+          <td style="width: 26%; font-weight: bold;">1. Asesmen Awal<br><span style="font-weight: normal; font-size: 9.5pt;">(Assessment for Learning)</span></td>
+          <td>
+            <strong>Kuis Diagnostik Singkat (3 Soal):</strong>
+            <ol class="doc-list">
+              <li>Manakah kata sifat yang menggambarkan kepribadian atlet? (a. <em>tall</em> / b. <em>disciplined</em> / c. <em>muscular</em>)</li>
+              <li>Lengkapi kalimat: <em>"Greysia Polii _____ very humble and inspiring."</em> (a. <em>is</em> / b. <em>are</em> / c. <em>were</em>)</li>
+              <li>Cabang olahraga apa yang paling kamu sukai? (Bulu tangkis / Sepak bola / Voli / Panjat tebing / Lainnya)</li>
+            </ol>
+          </td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold;">2. Asesmen Proses<br><span style="font-weight: normal; font-size: 9.5pt;">(Assessment as Learning)</span></td>
+          <td>
+            <strong>Observasi Guru &amp; Peer-Assessment (Gallery Walk Checklist):</strong>
+            <ul class="doc-list">
+              <li>Apakah kartu memuat nama dan cabang olahraga atlet secara jelas (<em>Identification</em>)?</li>
+              <li>Apakah teks mendeskripsikan ciri fisik sekaligus sifat kepribadian atlet (<em>Description</em>)?</li>
+              <li>Apakah penyaji berbicara dengan jelas dan percaya diri?</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold;">3. Asesmen Akhir<br><span style="font-weight: normal; font-size: 9.5pt;">(Assessment of Learning)</span></td>
+          <td>
+            <strong>Unjuk Kerja Produk <em>Athlete Spotlight Card</em> (100–130 Kata) &amp; Presentasi Lisan.</strong><br>
+            <em>Rubrik Penilaian Analitik (Skor 1–4 per kriteria, Total Skor Maksimal = 16):</em>
+            <table style="width: 100%; border-collapse: collapse; margin-top: 6px; font-size: 9.5pt;">
+              <tbody><tr style="background-color: #F3F4F6; font-weight: bold;">
+                <td style="border: 1px solid #000; padding: 4px; width: 22%;">Kriteria</td>
+                <td style="border: 1px solid #000; padding: 4px; width: 19%;">1 (Perlu Bimbingan)</td>
+                <td style="border: 1px solid #000; padding: 4px; width: 19%;">2 (Cukup)</td>
+                <td style="border: 1px solid #000; padding: 4px; width: 20%;">3 (Baik)</td>
+                <td style="border: 1px solid #000; padding: 4px; width: 20%;">4 (Sangat Baik)</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #000; padding: 4px; font-weight: bold;">Struktur Teks &amp; Isi</td>
+                <td style="border: 1px solid #000; padding: 4px;">Bagian <em>Identification</em> atau <em>Description</em> tidak lengkap.</td>
+                <td style="border: 1px solid #000; padding: 4px;">Memuat struktur dasar namun deskripsi kepribadian masih minim.</td>
+                <td style="border: 1px solid #000; padding: 4px;">Memuat <em>Identification</em> dan <em>Description</em> secara runtut dan jelas.</td>
+                <td style="border: 1px solid #000; padding: 4px;">Sangat runtut, detail, inspiratif, dan mendalam.</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #000; padding: 4px; font-weight: bold;">Kosakata (Adjectives)</td>
+                <td style="border: 1px solid #000; padding: 4px;">Kosakata sangat terbatas dan berulang.</td>
+                <td style="border: 1px solid #000; padding: 4px;">Menggunakan beberapa kata sifat dasar yang sesuai.</td>
+                <td style="border: 1px solid #000; padding: 4px;">Variasi kata sifat fisik &amp; kepribadian tepat guna.</td>
+                <td style="border: 1px solid #000; padding: 4px;">Kosakata kaya, ekspresif, dan sangat natural.</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #000; padding: 4px; font-weight: bold;">Tata Bahasa (Simple Present)</td>
+                <td style="border: 1px solid #000; padding: 4px;">Banyak kesalahan <em>to be/verb</em> yang mengganggu makna.</td>
+                <td style="border: 1px solid #000; padding: 4px;">Beberapa kesalahan tata bahasa namun makna masih dipahami.</td>
+                <td style="border: 1px solid #000; padding: 4px;">Sebagian besar akurat; kesalahan minor tidak mengganggu.</td>
+                <td style="border: 1px solid #000; padding: 4px;">Penggunaan <em>Simple Present Tense</em> sangat konsisten dan akurat.</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #000; padding: 4px; font-weight: bold;">Penyajian &amp; Komunikasi</td>
+                <td style="border: 1px solid #000; padding: 4px;">Suara pelan/ragu dan visual kurang terbaca.</td>
+                <td style="border: 1px solid #000; padding: 4px;">Visual cukup rapi; membaca penuh teks dengan intonasi datar.</td>
+                <td style="border: 1px solid #000; padding: 4px;">Visual menarik; presentasi jelas dan cukup percaya diri.</td>
+                <td style="border: 1px solid #000; padding: 4px;">Sangat kreatif, ekspresif, lancar, dan komunikatif.</td>
+              </tr>
+            </tbody></table>
+            <div style="margin-top: 6px; font-size: 10pt;">
+              <strong>Nilai Akhir</strong> = (Total Skor Perolehan ÷ 16) × 100
+            </div>
+          </td>
+        </tr>
+      </tbody></table>
+
+      <!-- BAGIAN PENGESAHAN / TANDA TANGAN -->
+      <div class="signature-section" style="margin-top: 24px; width: 100%;">
+        <table style="width: 100%; border: none; border-collapse: collapse;">
+          <tbody><tr>
+            <td style="width: 50%; border: none; vertical-align: top; padding-left: 10px;">
+              <div>Mengetahui,</div>
+              <div>Kepala SMAN 3 Jeneponto</div>
+              <div style="height: 64px;"></div>
+              <div style="font-weight: bold; text-decoration: underline;">............................................................</div>
+              <div>NIP. ....................................................</div>
+            </td>
+            <td style="width: 50%; border: none; vertical-align: top; padding-left: 40px;">
+              <div>Jeneponto, ......................... 2026</div>
+              <div>Guru Mata Pelajaran Bahasa Inggris</div>
+              <div style="height: 64px;"></div>
+              <div style="font-weight: bold; text-decoration: underline;">Satria Andriani, S.Pd.</div>
+              <div>NIP. ....................................................</div>
+            </td>
+          </tr>
+        </tbody></table>
+      </div>
+
+      <!-- ===================================================================== -->
+      <!-- LAMPIRAN: LEMBAR KERJA PESERTA DIDIK (LKPD)                           -->
+      <!-- ===================================================================== -->
+      <div class="page-break-before" style="margin-top: 32px; border-top: 2px dashed #9CA3AF; padding-top: 20px;">
+
+        <!-- KOP LKPD -->
+        <div style="text-align: center; border: 2px solid #000000; background-color: #F3F4F6; padding: 10px; margin-bottom: 14px;">
+          <div style="font-size: 13pt; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px;">
+            LEMBAR KERJA PESERTA DIDIK (LKPD)
+          </div>
+          <div style="font-size: 11pt; font-weight: bold; margin-top: 2px;">
+            UNIT: GREAT ATHLETES (DESCRIPTIVE TEXT)
+          </div>
+          <div style="font-size: 9.5pt; margin-top: 2px;">
+            Mata Pelajaran: Bahasa Inggris • Kelas X (Fase E) • SMAN 3 Jeneponto
+          </div>
+        </div>
+
+        <!-- IDENTITAS SISWA / KELOMPOK -->
+        <table class="doc-table">
+          <tbody><tr>
+            <td style="width: 22%; font-weight: bold;">Nama Kelompok</td>
+            <td style="width: 33%;">....................................................</td>
+            <td style="width: 18%; font-weight: bold;">Kelas / Tanggal</td>
+            <td style="width: 27%;">X - ...... / ................... 2026</td>
+          </tr>
+          <tr>
+            <td style="font-weight: bold;">Anggota Kelompok</td>
+            <td colspan="3">
+              1. .................................................... &nbsp;&nbsp;&nbsp;&nbsp; 3. ....................................................<br>
+              2. .................................................... &nbsp;&nbsp;&nbsp;&nbsp; 4. ....................................................
+            </td>
+          </tr>
+        </tbody></table>
+
+        <!-- PETUNJUK BELAJAR -->
+        <div style="border: 1px solid #000000; padding: 8px 10px; margin-bottom: 14px; background-color: #FAFAFA; font-size: 10.5pt;">
+          <strong>Petunjuk Belajar (Learning Instructions):</strong>
+          <ol class="doc-list" style="margin-top: 3px;">
+            <li>Berdoalah dan pusatkan perhatian sebelum memulai aktivitas (<em>Mindful Learning</em>).</li>
+            <li>Bacalah teks model secara saksama dan diskusikan setiap pertanyaan bersama anggota kelompokmu.</li>
+            <li>Gunakan <em>Vocabulary Word Bank</em> yang tersedia jika membutuhkan bantuan kosakata bahasa Inggris.</li>
+          </ol>
+        </div>
+
+        <!-- ACTIVITY 1: MEMAHAMI (READING & TEXT DECONSTRUCTION) -->
+        <table class="doc-table">
+          <tbody><tr class="doc-header-row">
+            <td colspan="2">ACTIVITY 1: UNDERSTANDING (MEMAHAMI TEKS &amp; KOSAKATA)</td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <strong>A. Read the descriptive text below carefully!</strong>
+              <div class="text-model-box" style="margin-top: 6px;">
+                <strong>Veddriq Leonardo: The Pride of Indonesian Speed Climbing</strong><br><br>
+                Veddriq Leonardo is one of Indonesia’s greatest athletes in sport climbing. Born in Pontianak, West Kalimantan, he gained international recognition after winning a historic gold medal at the 2024 Paris Olympics.<br><br>
+                Veddriq has an athletic, lean, and muscular build, which helps him move swiftly up the climbing wall. Beyond his physical strength, he is known as a humble, disciplined, and calm person. Even under immense pressure during final matches, he stays focused and never gives up easily. Every day, he trains rigorously to improve his speed and agility. His dedication and sportsmanship truly inspire young Indonesians to dream big and work hard.
+              </div>
+
+              <strong>B. Answer the following comprehension questions based on the text!</strong>
+              <ol class="doc-list" style="margin-top: 4px;">
+                <li>What is the main purpose (social function) of the text above?<br>
+                  <em>Answer:</em> ................................................................................................................................................</li>
+                <li>Which paragraph functions as the <strong>Identification</strong>? Write the key information introduced there!<br>
+                  <em>Answer:</em> ................................................................................................................................................</li>
+                <li>How does the writer describe Veddriq’s character when facing pressure in final matches?<br>
+                  <em>Answer:</em> ................................................................................................................................................</li>
+                <li>Find 4 verbs in <em>Simple Present Tense</em> used in paragraph 2 (e.g., <em>has</em>):<br>
+                  <em>Answer:</em> (1) ...................... &nbsp; (2) ...................... &nbsp; (3) ...................... &nbsp; (4) ......................</li>
+              </ol>
+            </td>
+          </tr>
+          <tr class="sub-header-row">
+            <td colspan="2">C. Vocabulary Sorting: Classify the adjectives below into the correct column!</td>
+          </tr>
+          <tr>
+            <td colspan="2" style="background-color: #F8FAFC; font-style: italic; font-size: 10pt;">
+              Word List: <strong>muscular • humble • agile • disciplined • tall • resilient • calm • athletic • determined • energetic</strong>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; text-align: center; font-weight: bold; background-color: #F3F4F6;">Physical Appearance (Ciri Fisik)</td>
+            <td style="width: 50%; text-align: center; font-weight: bold; background-color: #F3F4F6;">Personality Traits (Sifat Kepribadian)</td>
+          </tr>
+          <tr>
+            <td style="height: 68px;">
+              1. .................................... &nbsp;&nbsp; 4. ....................................<br>
+              2. .................................... &nbsp;&nbsp; 5. ....................................<br>
+              3. ....................................
+            </td>
+            <td style="height: 68px;">
+              1. .................................... &nbsp;&nbsp; 4. ....................................<br>
+              2. .................................... &nbsp;&nbsp; 5. ....................................<br>
+              3. ....................................
+            </td>
+          </tr>
+        </tbody></table>
+
+        <!-- ACTIVITY 2: MENGAPLIKASI (WRITING & CREATING SPOTLIGHT CARD) -->
+        <table class="doc-table">
+          <tbody><tr class="doc-header-row">
+            <td colspan="2">ACTIVITY 2: APPLYING (MENYUSUN PROFIL ATLET INSPIRATIF)</td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <strong>Task: "Athlete Spotlight Card" (100–130 Words)</strong><br>
+              Pilihlah satu atlet nasional, internasional, atau siswa berprestasi olahraga di sekolahmu. Susunlah draf deskripsi singkat pada kerangka di bawah ini sebelum memindahkannya ke kartu poster/Canva!
+              <div style="background-color: #EFF6FF; border: 1px solid #BFDBFE; padding: 6px 8px; margin-top: 6px; font-size: 9.5pt;">
+                <strong>Scaffolding Word Bank:</strong> <em>badminton, football, volleyball, weightlifting, martial arts • slim, strong, fast, well-built • hard-working, polite, brave, inspiring, consistent • trains every day, wins medals, never gives up.</em>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 26%; font-weight: bold;">1. Identification<br><span style="font-weight: normal; font-size: 9.5pt;">(Nama, asal, &amp; cabang olahraga atlet)</span></td>
+            <td style="height: 65px;">
+              <em>Starter: <strong>........................................</strong> is one of my favorite athletes. He/She comes from <strong>................................</strong> and competes in <strong>........................................</strong>.</em><br><br>
+              ........................................................................................................................................................................
+            </td>
+          </tr>
+          <tr>
+            <td style="font-weight: bold;">2. Description<br><span style="font-weight: normal; font-size: 9.5pt;">(Ciri fisik, kepribadian, latihan, &amp; nilai inspiratif)</span></td>
+            <td style="height: 125px;">
+              <em>Starter: He/She has <strong>........................................</strong> (physical appearance). Besides that, he/she is a <strong>........................................</strong> (personality) person. Every day, he/she <strong>........................................</strong>. I admire him/her because <strong>........................................</strong>.</em><br><br>
+              ........................................................................................................................................................................<br><br>
+              ........................................................................................................................................................................
+            </td>
+          </tr>
+        </tbody></table>
+
+        <!-- ACTIVITY 3: MEREFLEKSI (PEER-ASSESSMENT & SELF-REFLECTION) -->
+        <table class="doc-table">
+          <tbody><tr class="doc-header-row">
+            <td colspan="2">ACTIVITY 3: REFLECTING (GALLERY WALK &amp; REFLEKSI DIRI)</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">
+              <strong>A. Peer-Assessment (Gallery Walk Checklist)</strong><br>
+              <span style="font-size: 9.5pt;">Kunjungi 1 karya kelompok lain dan beri tanda centang (√):</span>
+              <div style="margin-top: 5px; font-size: 10pt;">
+                Nama Kelompok Dikunjungi: .................................<br>
+                [ &nbsp; ] Memuat nama &amp; cabang olahraga (<em>Identification</em>)<br>
+                [ &nbsp; ] Mendeskripsikan ciri fisik &amp; sifat (<em>Description</em>)<br>
+                [ &nbsp; ] Menggunakan kata sifat &amp; <em>Simple Present</em> tepat<br>
+                <em>Pesan Apresiasi:</em> ...................................................
+              </div>
+            </td>
+            <td style="width: 50%; vertical-align: top;">
+              <strong>B. Mindful Self-Reflection (3-2-1)</strong><br>
+              <ol class="doc-list" style="font-size: 10pt; margin-top: 4px;">
+                <li><strong>2 New Adjectives</strong> I learned today:<br>
+                  ........................................................................</li>
+                <li><strong>1 Challenge</strong> I faced in English &amp; how I solved it:<br>
+                  ........................................................................</li>
+                <li><strong>1 Athlete Value</strong> I will apply in my study:<br>
+                  ........................................................................</li>
+              </ol>
+            </td>
+          </tr>
+        </tbody></table>
+
+      </div>
+      <!-- AKHIR LAMPIRAN LKPD -->
+
+    </div>
+        </body>
+        </html>
+      
